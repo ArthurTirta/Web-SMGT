@@ -1,0 +1,23 @@
+button {
+    padding: 15px 32px;
+    text-align:right;
+    margin: 10px;
+
+
+
+
+}
+#navigasi-web{
+  display: flex;
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue; 
+    flex-direction: column;
+    margin: 10px;
+  }
+  
+
+}
